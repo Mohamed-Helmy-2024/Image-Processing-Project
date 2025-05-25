@@ -18,4 +18,4 @@ Apply morphological operations (dilation, erosion, opening, closing) with variou
 
 Save the processed output images.
 
-Tech Stack: Python, OpenCV, Tkinter
+Tech Stack: `Python`, `OpenCV`, `Tkinter`
