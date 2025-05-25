@@ -2,7 +2,7 @@
 Pattern Recognition and Image Processing (Python + OpenCV + Tkinter)
 An interactive GUI-based image processing tool built with Python, OpenCV, and Tkinter. The application allows users to load images, apply various filters and transformations, and detect patterns such as edges and shapes.
 
-Features:
+`Features:`
 
 Load and display images in RGB or grayscale.
 
